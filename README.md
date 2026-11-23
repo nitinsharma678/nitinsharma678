@@ -4,7 +4,7 @@ I'm a B.Tech CSE student passionate about building web applications and sharpeni
 
 - 🔭 Currently working on Full-Stack Web Development & Backend systems
 - 🌱 Focusing on DSA in Java, Spring Boot, and React
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/nitinsharma-dev)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nitinsharma-dev/)
 
 ---
 
